@@ -1,0 +1,49 @@
+{
+    "default_browser" : "Arc",
+    "rules" : [
+        {
+            "frontmost_app" : "Superhuman",
+            "tags": ["Email"]
+        },
+        {
+            "url": "1497427",
+            "tags": ["210"],
+            "project": "university"
+        },
+        {
+            "url": "adrianapicoral",
+            "tags": ["210"],
+            "project": "university"
+        },
+        {
+            "url": "1487819",
+            "tags": ["244"],
+            "project": "university"
+        },
+        {
+            "url": "1472921",
+            "tags": ["141"],
+            "project": "university"
+        },
+        {
+            "url": "mastering",
+            "tags": ["141"],
+            "project": "university"
+        },
+        {
+            "url": "1483088",
+            "tags": ["150C1"],
+            "project": "university"
+        },
+        {
+            "url": "handshake",
+            "tags": ["professional"],
+            "project": "personal"
+        },
+        {
+            "url": "linkedin",
+            "tags": ["professional"],
+            "project": "personal"
+        }
+    ]
+}
